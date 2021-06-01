@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kelvin
+- 👋 Hi, I’m Kelvin, Github is a place for me to learn and practice coding, some projects that I have done are not private for sharing
 - 👀 I’m interested in Mobile Application
 - 🌱 I’m currently working for Samsung Electronic as an Android Developer
 - 💞️ I’m looking to collaborate on IT industry especially mobile application development
