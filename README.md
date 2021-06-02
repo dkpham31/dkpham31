@@ -3,11 +3,11 @@
 - 🌱 I’m currently working for Samsung Electronic as an Android Developer
 - 💞️ I’m looking to collaborate on IT industry especially mobile application development
 - 📫 How to reach me 
-                       Linkedin: https://www.linkedin.com/in/dkpham31/
-                       Github: https://www.dkpham31.github.io 
-                       Facebook: https://www.facebook.com/dkpham31/
-                       Instagram: https://www.instagram.com/dkpham31/
-                       Twitter:https://twitter.com/dkpham31/
+                       + Linkedin: https://www.linkedin.com/in/dkpham31/
+                       + Github: https://www.dkpham31.github.io 
+                       + Facebook: https://www.facebook.com/dkpham31/
+                       + Instagram: https://www.instagram.com/dkpham31/
+                       + Twitter:https://twitter.com/dkpham31/
 <p align="center">
     <a href="https://www.oracle.com/java/">
         <img align="center" alt="Java"
