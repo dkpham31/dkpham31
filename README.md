@@ -14,7 +14,7 @@
             src="https://img.shields.io/badge/-Java-3626e3?style=flat-square&logo=Java&logoColor=007396" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img align="center" alt="JavaScript"
+        <img align="center" alt="Kotlin"
             src="https://img.shields.io/badge/-JavaScript-e34f26?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />
     </a>
 </p>
