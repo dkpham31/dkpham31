@@ -19,16 +19,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://nodejs.org/">
-        <img align="center" alt="Nodejs"
-            src="https://img.shields.io/badge/-NodeJs-e39b26?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-    </a>
-    <a href="https://reactjs.org/">
-        <img align="center" alt="React"
-            src="https://img.shields.io/badge/-React-e39b26?style=flat-square&logo=React&logoColor=61DAFB" />
-    </a>
-</p>
 
 <p align="center">
     <a href="https://www.mysql.com/">
